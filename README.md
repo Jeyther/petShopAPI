@@ -8,6 +8,7 @@
 - JavaScript
 - React JS
 - PHP
+- PDO
 - MySQL
 
 > clonar el repositorio en la carpeta raiz del servidor de tu preferencia y correr con normalidad
