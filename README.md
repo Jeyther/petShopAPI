@@ -7,6 +7,7 @@
 - Material UI
 - JavaScript
 - React JS
+- Axios
 - PHP
 - PDO
 - MySQL
